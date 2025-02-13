@@ -50,7 +50,7 @@ int main() {
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
     //Saida de dados.
-    printf("\nDados da Cidade:\n");
+    printf("\nDados da Cidade\n");
     printf("Nome: %s\n", nome);
     printf("Área: %.2f Km\n", area);
     printf("Codigo CEP: %d\n", codigoCep);
